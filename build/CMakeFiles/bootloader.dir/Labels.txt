@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/CMakeFiles/bootloader
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/CMakeFiles/bootloader.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/CMakeFiles/bootloader-complete.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/wangyulin/Projects/ESP/projects/esp32_at/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

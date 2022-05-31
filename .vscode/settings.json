@@ -1,0 +1,20 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "app_vision.h": "c",
+    "stdio.h": "c",
+    "*.inc": "c",
+    "img_converters.h": "c",
+    "stb_image_resize.h": "c",
+    "qpids.h": "c",
+    "random": "cpp",
+    "eekf.h": "c",
+    "*.ipp": "c",
+    "pcnt_types.h": "c",
+    "esp_spiffs.h": "c"
+  },
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ]
+}
